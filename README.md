@@ -1,4 +1,4 @@
-- 👋 Hi, I’m 
+- 👋 Hi, I’m Ash
 - 👀 I started my coding journey on July 2021
 - 🌱 I’m currently trying to get really  good with Js
 - 💞️ I’m looking to collaborate on any interesting project
