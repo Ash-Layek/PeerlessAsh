@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PeerlessAsh
+- 👋 Hi, I’m @Ash-Layek
 - 👀 I started my coding journey on July 2021
 - 🌱 I’m currently trying to get really  good with Javascript
 - 💞️ I’m looking to collaborate on any interesting project
