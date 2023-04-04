@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Ash, 23 years old 
-- 👀 I started my coding journey on July 2021
-- 🌱 
-- 💞️ I’m looking to collaborate on any interesting project
+-  Hi, I’m Ash, 23 years old 
+- I Code for fun and I'm open to collab on any interesting projects
 - 📫 How to reach me : achraf.layek1@gmail.com
 
 <!---
